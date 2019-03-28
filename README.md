@@ -12,4 +12,4 @@
 * [DogeCV](https://github.com/MechanicalMemes/DogeCV)
 
 
-*Does not work with ZTE speed phones*
+*Does not work on ZTE speed phones*
